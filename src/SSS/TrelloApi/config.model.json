@@ -1,0 +1,13 @@
+{
+    "ClassName": "Configuration",
+    "Children": [
+        {
+            "Name": "APIkey",
+            "ClassName": "StringValue"
+        },
+        {
+            "Name": "Token",
+            "ClassName": "StringValue"
+        }
+    ]
+}
